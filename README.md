@@ -13,4 +13,4 @@ A compact RC car powered by an STM32 Nucleo board and controlled wirelessly via 
 - **Driver**: H‑bridge (e.g. L298N)  
 - **Motors**: 6 V DC gear motors  
 - **Input**: 2‑axis joystick  
-- **Power**: 7.4 V Li‑Po + 5 V regulator  
+- **Power**: 12 V Li‑Po
