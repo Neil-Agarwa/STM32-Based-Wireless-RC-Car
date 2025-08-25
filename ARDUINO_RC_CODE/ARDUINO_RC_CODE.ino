@@ -51,7 +51,7 @@ void loop() {
   Serial.println(data.y);
 
   bool ok = radio.write(&data, sizeof(data));
-  Serial.println(ok ? "✅ Sent!" : "❌ Failed to send");
+  Serial.println(ok ? "Sent!" : "Failed to send");
 
   delay(100);
 }
