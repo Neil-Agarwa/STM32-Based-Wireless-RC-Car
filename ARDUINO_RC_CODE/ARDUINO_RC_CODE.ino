@@ -1,7 +1,7 @@
 #include <SPI.h>
 #include <nRF24L01.h>
 #include <RF24.h>
-#include <stdint.h> // <- ADD THIS
+#include <stdint.h> 
 
 #define CE_PIN 2
 #define CSN_PIN 3
