@@ -4,7 +4,7 @@
 
 #define CE_PIN D14
 #define CSN_PIN D15
-#define LED_PIN 13  // Changed from PC13
+#define LED_PIN 13
 
 // Motor driver pins
 #define ENA1 D3   // D3 PWM capable
